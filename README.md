@@ -2,8 +2,6 @@ Hello World
 Okubay Gebrelibanos
 New line
 updated 
-<<<<<<< HEAD
-dev
-=======
-feature
->>>>>>> feature
+
+edit 1 
+edit 2
